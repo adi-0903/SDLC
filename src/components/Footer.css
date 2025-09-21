@@ -1,7 +1,8 @@
 .footer {
-  background: #f8f9fa;
+  background: black;
   border-top: 1px solid #e5e7eb;
   padding: 2rem 0 1rem;
+  color: #fff;
 }
 
 .footer-content {
@@ -14,12 +15,13 @@
 .footer-info h3 {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #1f2937;
+  /* color: #1f2937; */
+  color: #fff;
   margin-bottom: 0.5rem;
 }
 
 .footer-info p {
-  color: #6b7280;
+  color: #fff;
   font-size: 0.9rem;
 }
 
@@ -29,13 +31,13 @@
 }
 
 .footer-links a {
-  color: #6b7280;
+  color: #fff;
   text-decoration: none;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .footer-links a:hover {
-  color: #374151;
+  color: rgb(74, 151, 239);
 }
 
 .footer-bottom {
@@ -45,7 +47,7 @@
 }
 
 .footer-bottom p {
-  color: #9ca3af;
+  color: #fff;
   font-size: 0.8rem;
   margin: 0;
 }
