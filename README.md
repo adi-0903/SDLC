@@ -76,12 +76,12 @@ The form includes all required fields with robust validation:
 
 3. **Start the development server:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Open your browser and visit:**
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## 📁 Project Structure
